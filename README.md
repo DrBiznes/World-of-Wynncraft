@@ -7,26 +7,26 @@
 
 **Please read the installation section at the bottom!**
 
-This modpack is very close to how I dreamed Wynncraft could be back in 2013. Distant Horizons allows for unlimited render distance, Rethinking Voxels provides ray-traced lighting, the wonderful Wynntils and WynnVentory provide all the features vanilla Wynncraft lacks.
+This modpack is very close to how I dreamed Wynncraft would one day look back in 2013. Distant Horizons allows for unlimited render distance, Rethinking Voxels provides ray-traced lighting, the wonderful Wynntils and WynnVentory add all the features vanilla Wynncraft lacks.
 
 ## Features
 
 Yeah, we got raytracing in this bad mama jama, and there are a few other things too, bra.
  
-### Custom Main Menu, Options, Pause, and Loading Screen
+### Wynncraft RTX
 
-This modpack features a fully custom main menu with custom music! There are 10 main menu variants each with matching music. The loading screen has also been customized. Watch the demonstration below:
+Since it doesn't make use of the RT cores in Nvidia graphics cards Rethinking Voxels is technically compatible with AMD and integrated graphics cards as well, however mac users and those with low end computers should switch to BSL which I've also included with a custom preset.
 
 
  
 ### Dynamic Weather
 
-Features a [dynamic weather engine](https://modrinth.com/mod/wynncraft-dynamic-weather) created specifically for this modpack! Rain or thunder can randomly occur throughout the map, and areas such as Nemract, Pirate Cove, the Dernal Jungle, and others experience more frequent weather conditions. Traverse through snowstorms in Nesaak, sandstorms in Almuj and other weather hazards! Coupled perfectly with the [Particle Rain](https://modrinth.com/mod/particle-rain) mod with custom settings.
+Using the [Wynncraft dynamic weather engine](https://modrinth.com/mod/wynncraft-dynamic-weather) mod created by ! Rain or thunder can randomly occur throughout the map, and areas such as Nemract, Pirate Cove, the Dernal Jungle, and others experience more frequent weather conditions. Traverse through snowstorms in Nesaak, sandstorms in Almuj and other weather hazards! Coupled perfectly with the [Particle Rain](https://modrinth.com/mod/particle-rain) mod with custom settings.
 
 ![WynnWeather4](https://github.com/user-attachments/assets/ab469bc7-1b67-4001-87b4-7a564c8ca17d)
 
 
-### Custom Wynntils Preset
+### Custom Main Menu, Options, Pause, and Loading Screen
 
 Comes preloaded with a custom Wynntils preset designed with simplicity and beginners in mind. More advanced players are recommended to import their own Wynntils settings.
 
