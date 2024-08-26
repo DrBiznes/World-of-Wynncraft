@@ -1,0 +1,251 @@
+type = fancymenu_layout
+
+layout-meta {
+  identifier = particletoggle
+  render_custom_elements_behind_vanilla = false
+  last_edited_time = 1723928035255
+  is_enabled = true
+  randommode = false
+  randomgroup = 1
+  randomonlyfirsttime = false
+  layout_index = 0
+  [loading_requirement_container_meta:01ea74c2-bb0b-4f7e-a031-699c5dea4a23-1723928019525] = [groups:][instances:]
+}
+
+customization {
+  action = backgroundoptions
+  keepaspectratio = false
+}
+
+scroll_list_customization {
+  preserve_scroll_list_header_footer_aspect_ratio = true
+  render_scroll_list_header_shadow = true
+  render_scroll_list_footer_shadow = true
+  show_scroll_list_header_footer_preview_in_editor = false
+  repeat_scroll_list_header_texture = false
+  repeat_scroll_list_footer_texture = false
+  show_screen_background_overlay_on_custom_background = false
+  apply_vanilla_background_blur = false
+}
+
+element {
+  button_element_executable_block_identifier = d87e9722-d0c4-43a1-ad9b-5c71aaead212-1723923528563
+  [executable_action_instance:84ca33c7-87da-4db4-866c-f2727621b9e6-1723928026677][action_type:closegui] = 
+  [executable_block:d87e9722-d0c4-43a1-ad9b-5c71aaead212-1723923528563][type:generic] = [executables:84ca33c7-87da-4db4-866c-f2727621b9e6-1723928026677;]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
+  nine_slice_custom_background = false
+  nine_slice_border_x = 5
+  nine_slice_border_y = 5
+  label = Done
+  navigatable = true
+  element_type = custom_button
+  instance_identifier = f8cb3eda-4b07-469c-a8a8-f1cd54d82a7f-1723923528563
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = bottom-centered
+  x = -100
+  y = -26
+  width = 200
+  height = 20
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = ba690a07-f14b-495d-a4fd-48f755ed58c0-1723923528563
+  [loading_requirement_container_meta:ba690a07-f14b-495d-a4fd-48f755ed58c0-1723923528563] = [groups:][instances:]
+}
+
+element {
+  button_element_executable_block_identifier = 32d8c2f9-104a-414d-8fcd-1893c26ee711-1723924222791
+  [executable_action_instance:50e79265-75fd-44c6-95ae-e2582db80657-1723925347919][action_type:sendmessage] = /particles low
+  [executable_block:32d8c2f9-104a-414d-8fcd-1893c26ee711-1723924222791][type:generic] = [executables:50e79265-75fd-44c6-95ae-e2582db80657-1723925347919;]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
+  nine_slice_custom_background = false
+  nine_slice_border_x = 5
+  nine_slice_border_y = 5
+  label = Particles Low
+  navigatable = true
+  element_type = custom_button
+  instance_identifier = 59fac56d-160c-42b5-8a19-4a1ae7315d24-1723924222791
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = element
+  anchor_point_element = c5441e0c-ff72-417c-9685-189896d0b939-1723924297802
+  x = -82
+  y = 17
+  width = 150
+  height = 20
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = 1c611ea8-5b87-4545-92f5-d431a7e5dcfe-1723924222791
+  [loading_requirement_container_meta:1c611ea8-5b87-4545-92f5-d431a7e5dcfe-1723924222791] = [groups:][instances:]
+}
+
+element {
+  interactable = true
+  source = Wynncraft Particle Settings
+  source_mode = direct
+  shadow = true
+  scale = 1.0
+  base_color = #FFFFFFFF
+  text_border = 2
+  line_spacing = 2
+  enable_scrolling = true
+  auto_line_wrapping = true
+  remove_html_breaks = true
+  code_block_single_color = #737373FF
+  code_block_multi_color = #565656FF
+  headline_line_color = #A9A9A9FF
+  separation_line_color = #A9A9A9FF
+  hyperlink_color = #0771FCFF
+  quote_color = #818181FF
+  quote_indent = 8.0
+  quote_italic = false
+  bullet_list_dot_color = #A9A9A9FF
+  bullet_list_indent = 8.0
+  bullet_list_spacing = 3.0
+  parse_markdown = true
+  element_type = text_v2
+  instance_identifier = c5441e0c-ff72-417c-9685-189896d0b939-1723924297802
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = top-centered
+  x = -72
+  y = 12
+  width = 144
+  height = 17
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = 8565e425-f6f8-4b49-b3d5-d8af3e453064-1723924297802
+  [loading_requirement_container_meta:8565e425-f6f8-4b49-b3d5-d8af3e453064-1723924297802] = [groups:][instances:]
+}
+
+element {
+  button_element_executable_block_identifier = 32d8c2f9-104a-414d-8fcd-1893c26ee711-1723924222791
+  [executable_action_instance:eef69f8d-2543-4990-b60a-879cd5a2ee43-1723925375490][action_type:sendmessage] = /particles medium
+  [executable_block:32d8c2f9-104a-414d-8fcd-1893c26ee711-1723924222791][type:generic] = [executables:eef69f8d-2543-4990-b60a-879cd5a2ee43-1723925375490;]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
+  nine_slice_custom_background = false
+  nine_slice_border_x = 5
+  nine_slice_border_y = 5
+  label = Particles Medium
+  navigatable = true
+  element_type = custom_button
+  instance_identifier = 9e760fe0-1183-4ee5-b0c6-2ffcae0d3f32-1723924407619
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = element
+  anchor_point_element = c5441e0c-ff72-417c-9685-189896d0b939-1723924297802
+  x = 76
+  y = 17
+  width = 150
+  height = 20
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = 1c611ea8-5b87-4545-92f5-d431a7e5dcfe-1723924222791
+  [loading_requirement_container_meta:1c611ea8-5b87-4545-92f5-d431a7e5dcfe-1723924222791] = [groups:][instances:]
+}
+
+element {
+  button_element_executable_block_identifier = 32d8c2f9-104a-414d-8fcd-1893c26ee711-1723924222791
+  [executable_action_instance:0e90bc5e-43e6-44da-8c74-03ede27a96f5-1723925403355][action_type:sendmessage] = /particles high
+  [executable_block:32d8c2f9-104a-414d-8fcd-1893c26ee711-1723924222791][type:generic] = [executables:0e90bc5e-43e6-44da-8c74-03ede27a96f5-1723925403355;]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
+  nine_slice_custom_background = false
+  nine_slice_border_x = 5
+  nine_slice_border_y = 5
+  label = Particles High
+  navigatable = true
+  element_type = custom_button
+  instance_identifier = 01719a85-7486-47fd-9868-01dca0b376a4-1723924873869
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = element
+  anchor_point_element = c5441e0c-ff72-417c-9685-189896d0b939-1723924297802
+  x = -82
+  y = 41
+  width = 150
+  height = 20
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = 1c611ea8-5b87-4545-92f5-d431a7e5dcfe-1723924222791
+  [loading_requirement_container_meta:1c611ea8-5b87-4545-92f5-d431a7e5dcfe-1723924222791] = [groups:][instances:]
+}
+
+element {
+  button_element_executable_block_identifier = 32d8c2f9-104a-414d-8fcd-1893c26ee711-1723924222791
+  [executable_action_instance:acacde5a-291d-45d6-b7b3-9c4b25793afc-1723925418245][action_type:sendmessage] = /particles highest
+  [executable_block:32d8c2f9-104a-414d-8fcd-1893c26ee711-1723924222791][type:generic] = [executables:acacde5a-291d-45d6-b7b3-9c4b25793afc-1723925418245;]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
+  nine_slice_custom_background = false
+  nine_slice_border_x = 5
+  nine_slice_border_y = 5
+  label = Particles Highest
+  navigatable = true
+  element_type = custom_button
+  instance_identifier = 6d425edc-65ca-4b20-a9d3-3fb6710b931a-1723924884014
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = element
+  anchor_point_element = c5441e0c-ff72-417c-9685-189896d0b939-1723924297802
+  x = 76
+  y = 41
+  width = 150
+  height = 20
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = 1c611ea8-5b87-4545-92f5-d431a7e5dcfe-1723924222791
+  [loading_requirement_container_meta:1c611ea8-5b87-4545-92f5-d431a7e5dcfe-1723924222791] = [groups:][instances:]
+}
+
+element {
+  button_element_executable_block_identifier = 32d8c2f9-104a-414d-8fcd-1893c26ee711-1723924222791
+  [executable_action_instance:beec0634-5897-47cd-b0ff-2cd284b515cd-1723925432008][action_type:sendmessage] = /particles unlimited
+  [executable_block:32d8c2f9-104a-414d-8fcd-1893c26ee711-1723924222791][type:generic] = [executables:beec0634-5897-47cd-b0ff-2cd284b515cd-1723925432008;]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
+  nine_slice_custom_background = false
+  nine_slice_border_x = 5
+  nine_slice_border_y = 5
+  label = Particles Unlimited
+  navigatable = true
+  element_type = custom_button
+  instance_identifier = fbd57e56-9feb-40cb-a276-4c08443d2a8c-1723924897073
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = element
+  anchor_point_element = c5441e0c-ff72-417c-9685-189896d0b939-1723924297802
+  x = -3
+  y = 65
+  width = 150
+  height = 20
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = 1c611ea8-5b87-4545-92f5-d431a7e5dcfe-1723924222791
+  [loading_requirement_container_meta:1c611ea8-5b87-4545-92f5-d431a7e5dcfe-1723924222791] = [groups:][instances:]
+}
+
