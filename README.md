@@ -18,26 +18,28 @@ Yeah, we got raytracing in this bad mama jama, and there are a few other things 
 Since it doesn't make use of the RT cores in Nvidia graphics cards Rethinking Voxels is technically compatible with AMD and integrated graphics cards as well, however mac users and those with low end computers should switch to BSL which I've also included with a custom preset.
 
 
- 
+ ![rtxpreview](https://github.com/user-attachments/assets/4c1e6f68-7bbe-4dd3-82d6-a488838417be)
+
 ### Dynamic Weather
 
-Using the [Wynncraft dynamic weather engine](https://modrinth.com/mod/wynncraft-dynamic-weather) mod created by ! Rain or thunder can randomly occur throughout the map, and areas such as Nemract, Pirate Cove, the Dernal Jungle, and others experience more frequent weather conditions. Traverse through snowstorms in Nesaak, sandstorms in Almuj and other weather hazards! Coupled perfectly with the [Particle Rain](https://modrinth.com/mod/particle-rain) mod with custom settings.
+Using the [Wynncraft dynamic weather engine](https://modrinth.com/mod/wynncraft-dynamic-weather) mod created by Quikjay for use in his modpack (which you should also check out)! "Rain or thunder can randomly occur throughout the map, and areas such as Nemract, Pirate Cove, the Dernal Jungle, and others experience more frequent weather conditions. Traverse through snowstorms in Nesaak, sandstorms in Almuj and other weather hazards! Coupled perfectly with the [Particle Rain](https://modrinth.com/mod/particle-rain) mod with custom settings."
 
 ![WynnWeather4](https://github.com/user-attachments/assets/ab469bc7-1b67-4001-87b4-7a564c8ca17d)
 
 
 ### Custom Main Menu, Options, Pause, and Loading Screen
 
-Comes preloaded with a custom Wynntils preset designed with simplicity and beginners in mind. More advanced players are recommended to import their own Wynntils settings.
+I respect my time you should respect your own, all my most used tings now at our finger tips. Oh and it looks pretty too.
 
-![Wynntils Map](https://cdn.modrinth.com/data/cached_images/72a1c3b9d4decc3099276ef73a345e84e3d490eb.jpeg)
-![Wynntils Quest Book](https://cdn.modrinth.com/data/cached_images/761feff2f647833da3f65c2a8dc89303720bb831.png)
+![menupreview1](https://github.com/user-attachments/assets/1bd7019e-5abc-4a66-bf44-09e795473846)
+![menupreview2](https://github.com/user-attachments/assets/f98af648-02c9-4949-b7fc-969050618ed6)
 
-### Shoulder Surfing
 
-Comes with preset settings for the incredibly popular Shoulder Surfing mod!
-![ShoulderSurfing3](https://github.com/user-attachments/assets/05f3bbdd-b865-4fdb-a702-aefb20bcff3c)
+### Wynnventory + Wynntils
 
+Everyone already knows about the great and numerous features Wynntils adds, but one thing that has always been missing was the ability to see trade market prices in tooltips. WynnVentory adds just that, and while it is still early in development it already supports most items, and ingredients are coming soon!
+
+![8f7a670ab8d390b9d6262c010d2eb37ea2254ad9](https://github.com/user-attachments/assets/d6c1999e-5c14-4226-a686-bfc6aa8dde68)
 
 ### Optimization
 
