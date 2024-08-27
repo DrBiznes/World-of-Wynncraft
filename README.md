@@ -109,7 +109,7 @@ The modpack is best played in fullscreen, but it can be played in windowed mode 
 **Crashing**
 1. Minecraft 1.21 is the first version to use Java 21. If you experience a crash, make sure you are using Java 21.
 
-**Main Menu is Glitchy/Clipping**
+**Known Bugs**
 1. The modpack is best played in fullscreen, but it can be played in windowed as long as you make the window large enough to accommodate the custom menus.
 2. Tooltips sometimes clip into each other: This is an issue with WynnVentory but the developer is actively working on fixing this issue.
 3. Wynntils Item Predictions are broken: This is the fault of Legendary Tooltips, Iceberg, and Prism. Turn these mods off to fix this feature of Wynntils.
