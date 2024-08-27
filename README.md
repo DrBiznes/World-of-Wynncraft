@@ -40,9 +40,6 @@ Everyone already knows about the great and numerous features Wynntils adds, but 
 
 ![8f7a670ab8d390b9d6262c010d2eb37ea2254ad9](https://github.com/user-attachments/assets/d6c1999e-5c14-4226-a686-bfc6aa8dde68)
 
-### Optimization
-
-Uhhhhh, it's raytracing what do you expect? I get double the frames when running BSL shaders compared to Rethinking Voxels so just switch shaderpacks if your computer starts smoking.
 
 ### Some stuff you may want to know
 
