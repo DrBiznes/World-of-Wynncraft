@@ -60,17 +60,17 @@ This modpack is far from finished and I will be continuously updating it as more
 <summary>Installation Guide</summary>
 
 # Method 1: Modrinth/Prism/ATLauncher download
-There are two ways two download the modpack, although it may seem ironic downloading Manually (Method 2) is easier in my opinion
+There are two ways to download the modpack, although it may seem ironic downloading Manually (Method 2) is easier in my opinion
 
 ## Modrinth hosted download
-1. Download the [Modrinth App](https://modrinth.com/app) or your prefered modpack launcher and sign in with your Microsoft/Minecraft account.
+1. Download the [Modrinth App](https://modrinth.com/app) or your preferred modpack launcher and sign in with your Microsoft/Minecraft account.
 2. Press the Browse button and search for "World of Wynncraft"
 3. Install the modpack.
 4. Navigate to the modpack's [GitHub Releases](https://github.com/bob10234/World-of-Wynncraft/releases) page.
 5. Download the file "DistantHorizonsLODsWynncraft.zip". This allows you to stop crying and start smiling.
 6. Navigate to the Modrinth App's Library panel, and select World of Wynncraft then click the Folder button next to Play to open the modpacks folder.
 7. Drag the Zip file you downloaded into the modpack folder.
-8. Right click on the Zip file and hit Extract All. After its done make sure there is a folder named "Distant_Horizons_server_data" in your modpack folder.
+8. Right-click on the Zip file and hit Extract All. After it's done make sure there is a folder named "Distant_Horizons_server_data" in your modpack folder.
 9. Delete the Zip file.
 
 # Method 2: Manual Installation
@@ -78,8 +78,8 @@ There are two ways two download the modpack, although it may seem ironic downloa
 ## Github hosted download
 1. Navigate to the modpack's [GitHub Releases](https://github.com/bob10234/World-of-Wynncraft/releases) page.
 2. Download the file titled World.of.Wynncraft.1.X.X.mrpack It should be around 1.3 Gigabytes.
-1. Download the [Modrinth App](https://modrinth.com/app) or your prefered modpack launcher and sign in with your Microsoft/Minecraft account.
-2. Add an instance, in the Modrinth app use the plus button on the bottom left. For other launchers I got no clue sorry!!
+1. Download the [Modrinth App](https://modrinth.com/app) or your preferred modpack launcher and sign in with your Microsoft/Minecraft account.
+2. Add an instance, in the Modrinth app use the plus button on the bottom left. For other launchers, I got no clue sorry!!
 3. Select From File and drag the .mrpack file you just downloaded onto the window.
 4. This version comes with the Distant Horizons LODs pre-installed.
 
@@ -89,26 +89,28 @@ There are two ways two download the modpack, although it may seem ironic downloa
 
 # Configurations
 1. Wynncraft Settings:
-If you are using my Wynntils config and not importing your own, I recomend typing the following once you join a world.
+If you are using my Wynntils config and not importing your own, I recommend typing the following commands once you join a world.
 ```
-/toggle questStartbeacon
-/toggle beacons
+/toggle beacon
+```
+```
+/toggle queststartbeacon
 ```
 
 2. Keybinds and Video Settings:
 I recomend you change what buttons cast each spell in the Wynncraft Spell Caster section in the Keybinds menu.
 I've set the render distance at 12 chunks with DH at 80 chunks, the shader pack is tuned for this specifically so you might need to mess with shader pack settings if you edit the video settings.
-The modpack is best played in fullscreen, but it can be played in windowed as long as you make the window large enough to accomodate the custom menus.
+The modpack is best played in fullscreen, but it can be played in windowed mode as long as you make the window large enough to accommodate the custom menus.
 </details>
 
 <details>
 <summary>Common Issues</summary>
   
 **Crashing**
-1. Minecraft 1.21 is the first verion to use Java 21. If you experience a crash, make sure you are using Java 21.
+1. Minecraft 1.21 is the first version to use Java 21. If you experience a crash, make sure you are using Java 21.
 
 **Main Menu is Glitchy/Clipping**
-1. The modpack is best played in fullscreen, but it can be played in windowed as long as you make the window large enough to accomodate the custom menus.
+1. The modpack is best played in fullscreen, but it can be played in windowed as long as you make the window large enough to accommodate the custom menus.
 2. Tooltips sometimes clip into each other: This is an issue with WynnVentory but the developer is actively working on fixing this issue.
 3. Wynntils Item Predictions are broken: This is the fault of Legendary Tooltips, Iceberg, and Prism. Turn these mods off to fix this feature of Wynntils.
 
