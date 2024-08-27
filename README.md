@@ -1,5 +1,3 @@
-# World of Wynncraft
-
 
 ![modpackbanner](https://github.com/user-attachments/assets/f984d7eb-7981-4470-bb45-9429ba1deea1)
 
@@ -9,27 +7,27 @@
 
 This modpack is very close to how I dreamed Wynncraft would one day look back in 2013. Distant Horizons allows for unlimited render distance, Rethinking Voxels provides ray-traced lighting, the wonderful Wynntils and WynnVentory add all the features vanilla Wynncraft lacks.
 
-## Features
+## What's Up
 
 Yeah, we got raytracing in this bad mama jama, and there are a few other things too, bra.
  
 ### Wynncraft RTX
 
-Since it doesn't make use of the RT cores in Nvidia graphics cards Rethinking Voxels is technically compatible with AMD and integrated graphics cards as well, however mac users and those with low end computers should switch to BSL which I've also included with a custom preset.
+Since it doesn't make use of the RT cores in Nvidia graphics cards Rethinking Voxels is technically compatible with AMD and integrated graphics cards as well, however, mac users and those with low-end computers should switch to BSL which I've also included with a custom preset.
 
 
  ![rtxpreview](https://github.com/user-attachments/assets/4c1e6f68-7bbe-4dd3-82d6-a488838417be)
 
 ### Dynamic Weather
 
-Using the [Wynncraft dynamic weather engine](https://modrinth.com/mod/wynncraft-dynamic-weather) mod created by Quikjay for use in his modpack (which you should also check out)! "Rain or thunder can randomly occur throughout the map, and areas such as Nemract, Pirate Cove, the Dernal Jungle, and others experience more frequent weather conditions. Traverse through snowstorms in Nesaak, sandstorms in Almuj and other weather hazards! Coupled perfectly with the [Particle Rain](https://modrinth.com/mod/particle-rain) mod with custom settings."
+Using the [Wynncraft dynamic weather engine](https://modrinth.com/mod/wynncraft-dynamic-weather) mod created by Quikjay for use in his modpack (which you should also check out)! "Rain or thunder can randomly occur throughout the map, and areas such as Nemract, Pirate Cove, the Dernal Jungle, and others experience more frequent weather conditions. Traverse through snowstorms in Nesaak, sandstorms in Almuj, and other weather hazards! Coupled perfectly with the [Particle Rain](https://modrinth.com/mod/particle-rain) mod with custom settings."
 
 ![WynnWeather4](https://github.com/user-attachments/assets/ab469bc7-1b67-4001-87b4-7a564c8ca17d)
 
 
 ### Custom Main Menu, Options, Pause, and Loading Screen
 
-I respect my time you should respect your own, all my most used tings now at our finger tips. Oh and it looks pretty too.
+I respect my time you should respect your own, all my most used tings now at our fingertips. Oh, and it looks pretty too.
 
 ![menupreview1](https://github.com/user-attachments/assets/1bd7019e-5abc-4a66-bf44-09e795473846)
 ![menupreview2](https://github.com/user-attachments/assets/f98af648-02c9-4949-b7fc-969050618ed6)
@@ -37,27 +35,26 @@ I respect my time you should respect your own, all my most used tings now at our
 
 ### Wynnventory + Wynntils
 
-Everyone already knows about the great and numerous features Wynntils adds, but one thing that has always been missing was the ability to see trade market prices in tooltips. WynnVentory adds just that, and while it is still early in development it already supports most items, and ingredients are coming soon!
+Everyone already knows about the great and numerous features Wynntils adds, but one thing that has always been missing is the ability to see trade market prices in tooltips. WynnVentory adds just that, and while it is still early in development it already supports most items, and ingredients are coming soon!
 
 ![8f7a670ab8d390b9d6262c010d2eb37ea2254ad9](https://github.com/user-attachments/assets/d6c1999e-5c14-4226-a686-bfc6aa8dde68)
 
 ### Optimization
 
-Achieves peak performance with a wide variety of all the most recent optimization mods. Any future optimization mods will be added as well! See modlist for more information.
+Uhhhhh, it's raytracing what do you expect? I get double the frames when running BSL shaders compared to Rethinking Voxels so just switch shaderpacks if your computer starts smoking.
 
-### Other
+### Some stuff you may want to know
 
-This modpack includes wide variety of quality of life and visual upgrades.
-- Bobby mod allows server render distances up to 256 chunks
-- Several chunk loading mods improve performance and visuals
-- Complementary Unbound shaders with custom settings retains vanilla-like style with improved visuals
-- Many, many visual tweaks in mods and resource packs
+- Distant Horizons set to 80 chunks to preserve the feeling of multiple continents
+- Visually based around [WynnEdits Dark Theme](https://modrinth.com/resourcepack/wynnedits-dark-theme)
+- Shoulder Surfing Reloaded and [DSTC](https://modrinth.com/mod/dont-surf-through-cutscenes!) installed but disabled by default, enable it in the Modrinth launcher or by renaming the .jar file
+- Wynntils config included but knowing y'all sweats you probably gunna import your own
 
-Some mods are still in the process of getting ported to 1.21. There are several that are on track to be added as soon as they are ported.
+This modpack is far from finished and I will be continuously updating it as more mods port to 1.21, check out a list of mods I'm waiting on [here.](https://modrinth.com/collection/gs97WiAb)
 
 ## Installation
 
-**IMPORTANT NOTE:** Due to filesize limitations on Modrinth, the Bobby config folder is hosted on the [GitHub releases page.](https://github.com/elijahjibben/wynncraft-rekindled-modpack/releases) For instructions to install it, please review the installation guide.\
+**"WAH WAH MY RENDER DISTANCE IS SO SMALL"** Does this sound like the voice in your head? Well, due to filesize limitations on Modrinth, the Distant Horizons LODs files are hosted on the [GitHub releases page.](https://github.com/elijahjibben/wynncraft-rekindled-modpack/releases) For instructions to install it, please review the installation guide.
 
 <details>
 <summary>Installation Guide</summary>
