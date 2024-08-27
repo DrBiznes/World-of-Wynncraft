@@ -33,7 +33,7 @@ I respect my time you should respect your own, all my most used tings now at our
 ![menupreview2](https://github.com/user-attachments/assets/f98af648-02c9-4949-b7fc-969050618ed6)
 
 
-### Wynnventory + Wynntils
+### WynnVentory + Wynntils
 
 Everyone already knows about the great and numerous features Wynntils adds, but one thing that has always been missing is the ability to see trade market prices in tooltips. WynnVentory adds just that, and while it is still early in development it already supports most items, and ingredients are coming soon!
 
