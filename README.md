@@ -115,6 +115,7 @@ The modpack is best played in fullscreen, but it can be played in windowed mode 
 3. Wynntils Item Predictions are broken: This is the fault of Legendary Tooltips, Iceberg, and Prism. Turn these mods off to fix this feature of Wynntils.
 
 **Support**
+
 If you need further support contact me on the Wynncraft discord @Jamino or submit an issue to the [GitHub issue page](https://github.com/bob10234/World-of-Wynncraft/issues)
 
 </details>
