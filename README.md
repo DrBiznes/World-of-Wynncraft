@@ -30,7 +30,7 @@ Using the [Wynncraft dynamic weather engine](https://modrinth.com/mod/wynncraft-
 
 All my most used tings now at your fingertips. Oh, and it looks pretty too.
 
-![menupreview1](https://github.com/user-attachments/assets/1bd7019e-5abc-4a66-bf44-09e795473846)
+![menupreview3](https://github.com/user-attachments/assets/94c11140-ea9c-48e9-8e68-4d6463965333)
 ![menupreview2](https://github.com/user-attachments/assets/f98af648-02c9-4949-b7fc-969050618ed6)
 
 
