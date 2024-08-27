@@ -1,6 +1,7 @@
+[![World of Wynncraft Banner][1]][2]
 
-![modpackbanner](https://github.com/user-attachments/assets/f984d7eb-7981-4470-bb45-9429ba1deea1)
-
+[1]: https://github.com/user-attachments/assets/f984d7eb-7981-4470-bb45-9429ba1deea1
+[2]:  https://modrinth.com/modpack/world-of-wynncraft "Redirect to Modrinth Page"
 
 
 **Please read the installation section at the bottom!**
