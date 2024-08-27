@@ -121,8 +121,9 @@ If you need further support contact me on the Wynncraft discord @Jamino or submi
 
 </details>
 
-## Modlist
-You can view the modlist for any version uploaded on the [Modrinth project page](https://modrinth.com/modpack/world-of-wynncraft/versions)
+## Modlist and Credits
+You can view the modlist with links to all the mods for any version uploaded on the [Modrinth project page](https://modrinth.com/modpack/world-of-wynncraft/versions)
+The [Alagard Font](https://www.dafont.com/alagard.font) by Hewett Tsoi was used with permission from the author.
 
 ## License and Affiliation
 This modpack is licensed under the LGPL-3.0 license. This modpack is not affiliated with Wynncraft.
