@@ -77,7 +77,7 @@ There are two ways to download the modpack, although it may seem ironic download
 
 ## Github hosted download
 1. Navigate to the modpack's [GitHub Releases](https://github.com/bob10234/World-of-Wynncraft/releases) page.
-2. Download the file titled World.of.Wynncraft.1.X.X.mrpack It should be around 1.3 Gigabytes.
+2. Download the file titled World.of.Wynncraft.0.X.mrpack It should be around 1.3 Gigabytes.
 1. Download the [Modrinth App](https://modrinth.com/app) or your preferred modpack launcher and sign in with your Microsoft/Minecraft account.
 2. Add an instance, in the Modrinth app use the plus button on the bottom left. For other launchers, I got no clue sorry!!
 3. Select From File and drag the .mrpack file you just downloaded onto the window.
