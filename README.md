@@ -113,6 +113,7 @@ The modpack is best played in fullscreen, but it can be played in windowed mode 
 1. The modpack is best played in fullscreen, but it can be played in windowed as long as you make the window large enough to accommodate the custom menus.
 2. Tooltips sometimes clip into each other: This is an issue with WynnVentory but the developer is actively working on fixing this issue.
 3. Wynntils Item Predictions are broken: This is the fault of Legendary Tooltips, Iceberg, and Prism. Turn these mods off to fix this feature of Wynntils.
+4. Resource Loading occasionally fails. Just re-enable every resourcepack and make sure WynnEdits is above World of Wynn Resourcepack
 
 **Support**
 
