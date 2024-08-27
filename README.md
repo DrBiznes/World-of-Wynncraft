@@ -88,14 +88,14 @@ There are two ways two download the modpack, although it may seem ironic downloa
 2. If you are interested, [download the latest version](https://www.curseforge.com/minecraft/mc-mods/voices-of-wynn/files) and place the .jar in the mods folder inside the modpack folder.
 
 # Configurations
-1. Wynncraft Settings
+1. Wynncraft Settings:
 If you are using my Wynntils config and not importing your own, I recomend typing the following once you join a world.
 ```
 /toggle questStartbeacon
 /toggle beacons
 ```
 
-2. Keybinds and Video Settings
+2. Keybinds and Video Settings:
 I recomend you change what buttons cast each spell in the Wynncraft Spell Caster section in the Keybinds menu.
 I've set the render distance at 12 chunks with DH at 80 chunks, the shader pack is tuned for this specifically so you might need to mess with shader pack settings if you edit the video settings.
 The modpack is best played in fullscreen, but it can be played in windowed as long as you make the window large enough to accomodate the custom menus.
