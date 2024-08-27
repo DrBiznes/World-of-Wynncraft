@@ -59,69 +59,46 @@ This modpack is far from finished and I will be continuously updating it as more
 <details>
 <summary>Installation Guide</summary>
 
-# Step One: Download the Modpack
-There are three easy ways to download the modpack: The Modrinth app, Prism Launcher, Manually (Minecraft Launcher)
+# Method 1: Modrinth/Prism/ATLauncher download
+There are two ways two download the modpack, although it may seem ironic downloading Manually (Method 2) is easier in my opinion
 
-## Modrinth App
-1. Download the [Modrinth App](https://modrinth.com/app) and sign in with your Microsoft/Minecraft account.
-2. Press the Browse button and search for Wynncraft: Rekindled.
+## Modrinth hosted download
+1. Download the [Modrinth App](https://modrinth.com/app) or your prefered modpack launcher and sign in with your Microsoft/Minecraft account.
+2. Press the Browse button and search for "World of Wynncraft"
 3. Install the modpack.
-4. Navigate to the modpack's [GitHub Releases](https://github.com/elijahjibben/wynncraft-rekindled-modpack/releases) panel.
-5. Download the file "bobby.zip". This allows you to increase your render distance beyond the server limit of 9 chunks.
-6. Navigate to the Modrinth App's Library panel, and select Wynncraft: Rekindled -> Folder.
-7. Follow Step Two to install the bobby configuration.
+4. Navigate to the modpack's [GitHub Releases](https://github.com/bob10234/World-of-Wynncraft/releases) page.
+5. Download the file "DistantHorizonsLODsWynncraft.zip". This allows you to stop crying and start smiling.
+6. Navigate to the Modrinth App's Library panel, and select World of Wynncraft then click the Folder button next to Play to open the modpacks folder.
+7. Drag the Zip file you downloaded into the modpack folder.
+8. Right click on the Zip file and hit Extract All. After its done make sure there is a folder named "Distant_Horizons_server_data" in your modpack folder.
+9. Delete the Zip file.
 
-## Prism Launcher
-1. Download [Prism Launcer](https://prismlauncher.org/) and sign in with your Microsoft/Minecraft account.
-2. Press "Add Instance" in the top right corner.
-3. Select the Modrinth panel, and search for "Wynncraft: Rekindled"
-4. Make sure the latest version is selected  and press "Ok".
-5. Navigate to the modpack's [GitHub Releases](https://github.com/elijahjibben/wynncraft-rekindled-modpack/releases) panel.
-6. Download the file "bobby.zip". This allows you to increase your render distance beyond the server limit of 9 chunks.
-7. In Prism, select the modpack then press folder.
-8. Follow Step Two to install the bobby configuration.
+# Method 2: Manual Installation
 
-## Manually (Minecraft Launcher)
-1. Download the .zip version of the modpack from the [GitHub Releases](https://github.com/elijahjibben/wynncraft-rekindled-modpack/releases) panel.
-2. Download the [Fabric Installer](https://fabricmc.net/use/installer/) and install for Minecraft 1.21, Loader Version 1.60.0.
-3. Copy the .minecraft folder from the zip file to any location (Roaming recommended)
-4. Rename the folder (.wynncraft recommended)
-5. Open the Minecraft Launcher
-6. Select Minecraft: Java Edition on the left panel
-7. Select Installations -> New Installation
-8. Select the custom game directory, and set version to the fabric-loader
-9. Optional: Set Java arguments from -Xmx2G to higher to allocate more RAM
-10. Optional: Download this pack icon to change the instance icon!\
-[Rekindled Pack Icon](https://cdn.modrinth.com/data/cached_images/fd52f8703f66b28b37c2b1d782c1584ad4d90973.png)
-11. Launch the game and follow Step Three.
+## Github hosted download
+1. Navigate to the modpack's [GitHub Releases](https://github.com/bob10234/World-of-Wynncraft/releases) page.
+2. Download the file titled World.of.Wynncraft.1.X.X.mrpack It should be around 1.3 Gigabytes.
+1. Download the [Modrinth App](https://modrinth.com/app) or your prefered modpack launcher and sign in with your Microsoft/Minecraft account.
+2. Add an instance, in the Modrinth app use the plus button on the bottom left. For other launchers I got no clue sorry!!
+3. Select From File and drag the .mrpack file you just downloaded onto the window.
+4. This version comes with the Distant Horizons LODs pre-installed.
 
-# Step Two: Bobby Install
-Extract the bobby file into the instance folder. Ensure the file is named:
-```
-.bobby
-```
-and contains a folder named:
-```
-play.wynncraft.com
-```
-It should look like this:\
-![Bobby File Demonstration](https://cdn.modrinth.com/data/cached_images/471bf9ce4475b682f3028b6452bb3486396892de.gif)
+# Addons: Voices of Wynn (Optional)
+1. You wanna hear the Seaskipper yappin at you, I understand.
+2. If you are interested, [download the latest version](https://www.curseforge.com/minecraft/mc-mods/voices-of-wynn/files) and place the .jar in the mods folder inside the modpack folder.
 
-# Step Three: Download Voices of Wynn (Optional)
-1. Voices of Wynn is a very popular community mod which adds voice acting for every quest in the game.
-2. If you are interested, [download the latest version](https://voicesofwynn.com/downloads) and place the mod in the mods folder.
-
-# Step Four: Configurations
-1. Bobby Update\
-As soon as you are in a world, type the following command into chat:
+# Configurations
+1. Wynncraft Settings
+If you are using my Wynntils config and not importing your own, I recomend typing the following once you join a world.
 ```
-/bobby upgrade
+/toggle questStartbeacon
+/toggle beacons
 ```
-This command is required to make bobby register the chunks saved in the instance directory.\
-2. Configure Keybinds and Settings\
-Take a look through the keybinds menu! I recommend at least changing the "Cast 1-4 Spell" keybinds to suit your mouse/keyboard.\
-Look at the Video Settings to suit your computer's performance.
 
+2. Keybinds and Video Settings
+I recomend you change what buttons cast each spell in the Wynncraft Spell Caster section in the Keybinds menu.
+I've set the render distance at 12 chunks with DH at 80 chunks, the shader pack is tuned for this specifically so you might need to mess with shader pack settings if you edit the video settings.
+The modpack is best played in fullscreen, but it can be played in windowed as long as you make the window large enough to accomodate the custom menus.
 </details>
 
 <details>
@@ -131,8 +108,9 @@ Look at the Video Settings to suit your computer's performance.
 1. Minecraft 1.21 is the first verion to use Java 21. If you experience a crash, make sure you are using Java 21.
 
 **Main Menu is Glitchy/Clipping**
-1. Make sure you are using v1.1.3, as this version fixes many clipping issues.
-2. Try pressing CTRL + Alt + R to reload the menu.
+1. The modpack is best played in fullscreen, but it can be played in windowed as long as you make the window large enough to accomodate the custom menus.
+2. Tooltips sometimes clip into each other: This is an issue with WynnVentory but the developer is actively working on fixing this issue.
+3. Wynntils Item Predictions are broken: This is the fault of Legendary Tooltips, Iceberg, and Prism. Turn these mods off to fix this feature of Wynntils.
 
 </details>
 
