@@ -118,7 +118,7 @@ If you need further support contact me on the Wynncraft discord @Jamino or submi
 </details>
 
 ## Modlist and Credits
-You can view the modlist with links to all the mods for any version uploaded on the [Modrinth project page](https://modrinth.com/modpack/world-of-wynncraft/versions)
+You can view the modlist [here](Modlist.md)
 The [Alagard Font](https://www.dafont.com/alagard.font) by Hewett Tsoi was used with permission from the author.
 Baby Ice Snake's and Meteors by onepointseven
 Acrobat Audio QOL by Elysium
