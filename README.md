@@ -21,7 +21,7 @@ Since it doesn't make use of the RT cores in Nvidia graphics cards Rethinking Vo
 
 ### Dynamic Weather + Dynamic LODs
 
-Using the [Wynncraft dynamic weather engine](https://modrinth.com/mod/wynncraft-dynamic-weather) mod created by Quikjay for use in his modpack (which you should also check out) and [WynnVista](https://github.com/bob10234/WynnVista) create by me for use in this modpack!
+Using the [Wynncraft dynamic weather engine](https://modrinth.com/mod/wynncraft-dynamic-weather) mod created by Quikjay for use in his modpack (which you should also check out) and [WynnVista](https://github.com/bob10234/WynnVista) created by me for use in this modpack!
 
 ![WynnWeather4](https://github.com/user-attachments/assets/ab469bc7-1b67-4001-87b4-7a564c8ca17d)
 
