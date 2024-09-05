@@ -19,9 +19,9 @@ Since it doesn't make use of the RT cores in Nvidia graphics cards Rethinking Vo
 
  ![rtxpreview](https://github.com/user-attachments/assets/4c1e6f68-7bbe-4dd3-82d6-a488838417be)
 
-### Dynamic Weather
+### Dynamic Weather + Dynamic LODs
 
-Using the [Wynncraft dynamic weather engine](https://modrinth.com/mod/wynncraft-dynamic-weather) mod created by Quikjay for use in his modpack (which you should also check out)! "Rain or thunder can randomly occur throughout the map, and areas such as Nemract, Pirate Cove, the Dernal Jungle, and others experience more frequent weather conditions. Traverse through snowstorms in Nesaak, sandstorms in Almuj, and other weather hazards! Coupled perfectly with the [Particle Rain](https://modrinth.com/mod/particle-rain) mod with custom settings."
+Using the [Wynncraft dynamic weather engine](https://modrinth.com/mod/wynncraft-dynamic-weather) mod created by Quikjay for use in his modpack (which you should also check out)! and [WynnVista](https://github.com/bob10234/WynnVista) create by me for use in this modpack!
 
 ![WynnWeather4](https://github.com/user-attachments/assets/ab469bc7-1b67-4001-87b4-7a564c8ca17d)
 
@@ -45,7 +45,7 @@ Everyone already knows about the great and numerous features Wynntils adds, but 
 
 - Distant Horizons set to 80 chunks to preserve the feeling of multiple continents
 - Visually based around [WynnEdits Dark Theme](https://modrinth.com/resourcepack/wynnedits-dark-theme)
-- Shoulder Surfing Reloaded and [DSTC](https://modrinth.com/mod/dont-surf-through-cutscenes!) installed but disabled by default, enable it in the Modrinth launcher or by renaming the .jar file
+- Custom WynnToolTips resourcepack for Dark Theme
 - Wynntils config included but knowing y'all sweats you probably gunna import your own
 
 This modpack is far from finished and I will be continuously updating it as more mods port to 1.21, check out a list of mods I'm waiting on [here.](https://modrinth.com/collection/gs97WiAb)
