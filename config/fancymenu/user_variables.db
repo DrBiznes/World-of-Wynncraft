@@ -20,7 +20,7 @@ variable {
 
 variable {
   name = showshop
-  value = true
+  value = false
   reset_on_launch = false
 }
 

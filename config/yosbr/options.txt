@@ -48,8 +48,8 @@ mouseSensitivity:0.21830985915492956
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:false
-resourcePacks:["vanilla","fabric","file/Acrobat Audio QoL.zip","file/EclecticTrove-1.20.2-1.3.0.zip","file/Baby Meteors.zip","file/Baby Ice Snakes.zip","file/FreshAnimations_v1.9.2.zip","file/Eyeless Fresh Moves v3.0.1.zip","file/World of Wynn Resources.zip","file/WynnEdits - Dark Theme 1.7.zip","file/Alagard Font.zip"]
-incompatibleResourcePacks:["controlling","distanthorizons","drippyloadingscreen","fancymenu","konkrete","modernfix","searchables","yet_another_config_lib_v3","file/Acrobat Audio QoL.zip","file/EclecticTrove-1.20.2-1.3.0.zip","file/Baby Meteors.zip","file/Baby Ice Snakes.zip","file/Alagard Font.zip"]
+resourcePacks:["vanilla","fabric","file/Acrobat Audio QoL.zip","file/Alagard Font.zip","file/Baby Ice Snakes.zip","file/Baby Meteors.zip","file/EclecticTrove-1.20.2-1.3.0.zip","file/Eyeless Fresh Moves v3.0.1.zip","file/FreshAnimations_v1.9.2.zip","file/Wynncraft Tooltips 1.1 - Dark Mode.zip","file/§bWynncraft §3Armor.zip","file/WynnEdits - Dark Theme 1.10.zip","file/Wzrd WoW edits.zip"]
+incompatibleResourcePacks:[]
 lastServer:play.originrealms.com
 lang:en_us
 chatVisibility:0
@@ -105,7 +105,7 @@ key_key.command:key.keyboard.slash
 key_key.socialInteractions:key.keyboard.f8
 key_key.screenshot:key.keyboard.f2
 key_key.togglePerspective:key.keyboard.v
-key_key.smoothCamera:key.keyboard.unknown
+key_key.smoothCamera:key.keyboard.keypad.1
 key_key.fullscreen:key.keyboard.f11
 key_key.spectatorOutlines:key.keyboard.unknown
 key_key.swapOffhand:key.keyboard.comma
@@ -167,8 +167,6 @@ key_key.dynamic_fps.toggle_disabled:key.keyboard.unknown
 key_text.autoconfig.clickthrough.keybind.toggleclickthrough:key.keyboard.backslash
 key_Toggle:key.keyboard.left.bracket
 key_key.entityculling.toggle:key.keyboard.unknown
-key_key.fabricskyboxes.toggle:key.keyboard.unknown
-key_key.fabricskyboxes.toggle.debug_hud:key.keyboard.unknown
 key_key.modmenu.open_menu:key.keyboard.unknown
 key_key.wynncraft-spell-caster.config:key.keyboard.unknown
 key_key.wynncraft-spell-caster.spell.first:key.keyboard.r
@@ -176,15 +174,18 @@ key_key.wynncraft-spell-caster.spell.second:key.mouse.5
 key_key.wynncraft-spell-caster.spell.third:key.mouse.4
 key_key.wynncraft-spell-caster.spell.fourth:key.keyboard.f
 key_key.wynncraft-spell-caster.spell.melee:key.keyboard.unknown
+key_key.wynnventory.open_config:key.keyboard.n
+key_key.wynnventory.toggle_tooltips:key.keyboard.period
+key_key.wynnventory.toggle_boxed_item_tooltips:key.keyboard.comma
 key_zoomify.key.zoom:key.keyboard.c
 key_zoomify.key.zoom.secondary:key.keyboard.f6
 key_iris.keybind.reload:key.keyboard.minus
 key_iris.keybind.toggleShaders:key.keyboard.equal
 key_iris.keybind.shaderPackSelection:key.keyboard.o
 key_iris.keybind.wireframe:key.keyboard.unknown
-soundCategory_master:0.40397350993377484
+soundCategory_master:0.21357615894039736
 soundCategory_music:0.0
-soundCategory_record:0.352112676056338
+soundCategory_record:0.6408450704225352
 soundCategory_weather:0.27816901408450706
 soundCategory_block:0.70422536
 soundCategory_hostile:0.2711267605633803
