@@ -109,9 +109,7 @@ The modpack is best played in fullscreen, but it can be played in windowed mode 
 
 **Known Bugs**
 1. The modpack is best played in fullscreen, but it can be played in windowed as long as you make the window large enough to accommodate the custom menus.
-2. Tooltips sometimes clip into each other: This is an issue with WynnVentory but the developer is actively working on fixing this issue.
-3. Wynntils Item Predictions are broken: This is the fault of Legendary Tooltips, Iceberg, and Prism. Turn these mods off to fix this feature of Wynntils.
-4. Resource Loading occasionally fails. Just re-enable every resourcepack and make sure WynnEdits is above World of Wynn Resourcepack
+4. Resource Loading occasionally fails. Just re-enable every resourcepack and make sure Wzrd WoW Edits is above WynnEdits Dark Theme
 
 **Support**
 
@@ -122,6 +120,6 @@ If you need further support contact me on the Wynncraft discord @Jamino or submi
 ## Modlist and Credits
 You can view the modlist with links to all the mods for any version uploaded on the [Modrinth project page](https://modrinth.com/modpack/world-of-wynncraft/versions)
 The [Alagard Font](https://www.dafont.com/alagard.font) by Hewett Tsoi was used with permission from the author.
+Baby Ice Snake's and Meteors by onepointseven
+Acrobat Audio QOL by Elysium
 
-## License and Affiliation
-This modpack is licensed under the LGPL-3.0 license. This modpack is not affiliated with Wynncraft.
