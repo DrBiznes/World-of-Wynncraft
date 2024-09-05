@@ -120,6 +120,14 @@ _version = 2
 			# if they are in a 0 sky light underground area. 
 			# Note: air is always included in this list.
 			ignoredRenderCaveBlockCsv = "minecraft:glow_lichen,minecraft:rail,minecraft:water,minecraft:lava,minecraft:bubble_column"
+			#
+			# Normally DH will attempt to skip creating LODs for chunks it's already seen
+			# and that haven't changed.
+			# 
+			# However sometimes that logic incorrecly prevents LODs from being updated.
+			# Disabling this check may fix issues where LODs aren't updated after
+			# blocks have been changed.
+			disableUnchangedChunkCheck = false
 
 		[client.advanced.autoUpdater]
 			#
@@ -488,7 +496,8 @@ _version = 2
 				# Disable this if shadows render incorrectly.
 				disableShadowPassFrustumCulling = false
 				#
-				# At what Y value should cave culling start?
+				# At what Y value should cave culling start? 
+				# Lower this value if you get walls for areas with 0 light.
 				caveCullingHeight = 40
 				#
 				# How should LODs be shaded? 
@@ -527,6 +536,13 @@ _version = 2
 				# 
 				# Disable this if you see LODs disappearing at the corners of your vision.
 				disableFrustumCulling = false
+				#
+				# If true all beacons near the camera won't be drawn to prevent vanilla overdraw. 
+				# If false all beacons will be rendered. 
+				# 
+				# Generally this should be left as false. It's main purpose is for debugging
+				# beacon updating/rendering.
+				disableBeaconDistanceCulling = false
 
 			[client.advanced.graphics.quality]
 				#
@@ -732,7 +748,7 @@ _version = 2
 				enableBeaconRendering = true
 				#
 				# If true LOD clouds will be rendered.
-				enableCloudRendering = true
+				enableCloudRendering = false
 
 		[client.advanced.worldGenerator]
 			#
