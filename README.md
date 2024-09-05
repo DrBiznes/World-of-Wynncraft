@@ -102,7 +102,7 @@ The modpack is best played in fullscreen, but it can be played in windowed mode 
 </details>
 
 <details>
-<summary>Common Issues</summary>
+<summary>Troubleshooting</summary>
   
 **Crashing**
 1. Minecraft 1.21 is the first version to use Java 21. If you experience a crash, make sure you are using Java 21.
