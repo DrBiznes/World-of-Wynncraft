@@ -14,7 +14,7 @@ Yeah, we got raytracing in this bad mama jama, and there are a few other things 
  
 ### Wynncraft RTX
 
-Since it doesn't make use of the RT cores in Nvidia graphics cards Rethinking Voxels is technically compatible with AMD and integrated graphics cards as well, however, mac users and those with low-end computers should switch to BSL which I've also included with a custom preset.
+This ain't for the faint of heart. A BeefyTM computer is a must-have, or those on low-end computers could switch to BSL which I've also included with a custom preset.
 
 
  ![rtxpreview](https://github.com/user-attachments/assets/4c1e6f68-7bbe-4dd3-82d6-a488838417be)
@@ -99,17 +99,6 @@ If you are using my Wynntils config and not importing your own, I recommend typi
 I recomend you change what buttons cast each spell in the Wynncraft Spell Caster section in the Keybinds menu.
 I've set the render distance at 12 chunks with DH at 80 chunks, the shader pack is tuned for this specifically so you might need to mess with shader pack settings if you edit the video settings.
 The modpack is best played in fullscreen, but it can be played in windowed mode as long as you make the window large enough to accommodate the custom menus.
-</details>
-
-<details>
-<summary>Troubleshooting</summary>
-  
-**Crashing**
-1. Minecraft 1.21 is the first version to use Java 21. If you experience a crash, make sure you are using Java 21.
-
-**Known Bugs**
-1. The modpack is best played in fullscreen, but it can be played in windowed as long as you make the window large enough to accommodate the custom menus.
-4. Resource Loading occasionally fails. Just re-enable every resourcepack and make sure Wzrd WoW Edits is above WynnEdits Dark Theme
 
 **Support**
 
@@ -117,8 +106,9 @@ If you need further support contact me on the Wynncraft discord @Jamino or submi
 
 </details>
 
+
 ## Modlist and Credits
-You can view the modlist [here.](Modlist.md)
+You can view the modlist with links to all the mods for any version uploaded on the [Modrinth project page](https://modrinth.com/modpack/world-of-wynncraft/versions)
 The [Alagard Font](https://www.dafont.com/alagard.font) by Hewett Tsoi was used with permission from the author.
 Baby Ice Snake's and Meteors by onepointseven
 Acrobat Audio QOL by Elysium
