@@ -52,7 +52,7 @@ This modpack is far from finished and I will be continuously updating it as more
 
 ## Installation
 
-**"WAH WAH MY RENDER DISTANCE IS SO SMALL"** Does this sound like the voice in your head? Well, due to filesize limitations on Modrinth, the Distant Horizons LODs files are hosted on the [GitHub releases page.](https://github.com/elijahjibben/wynncraft-rekindled-modpack/releases) For instructions to install it, please review the installation guide.
+**"WAH WAH MY RENDER DISTANCE IS SO SMALL"** Does this sound like the voice in your head? Well, due to filesize limitations on Modrinth, the Distant Horizons LODs files are hosted on the [GitHub releases page.](https://github.com/bob10234/World-of-Wynncraft/releases/tag/v0.2) For instructions to install it, please review the installation guide.
 
 <details>
 <summary>Installation Guide</summary>
