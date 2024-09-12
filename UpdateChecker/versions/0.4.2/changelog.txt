@@ -1,0 +1,12 @@
+**Notice**
+- Download the LODs separately from the [first release on Github](https://github.com/bob10234/World-of-Wynncraft/releases/tag/v0.2) (v0.2)
+- Doesn't include [Voices of Wynn](https://www.curseforge.com/minecraft/mc-mods/voices-of-wynn/files/all) 
+
+**Changelog**
+- Removed YOSBR
+- Updated options.txt
+- Fixed Drippy Loading Screen popup
+- Enabled Alagard font RP by default
+
+**Known Bugs**
+- Resource loading occasionally fails. Just re-enable every resourcepack and make sure Wzrd WoW Edits is above WynnEdits Dark Theme
