@@ -2,6 +2,25 @@
   "schemaVersion": 1,
   "hotfixesFormat": null,
   "versions": [
- 
+  {
+        "id": "0.4.2",
+        "releasedAt": 1725587640000,
+        "promotions": {
+            "downloads": {
+                "modrinth": "https://modrinth.com/modpack/world-of-wynncraft/version/0.4.2"
+            }
+        }
+    }
+
+     {
+        "id": "0.5.0",
+        "releasedAt": 1726106400000,
+        "promotions": {
+            "downloads": {
+                "modrinth": "https://modrinth.com/modpack/world-of-wynncraft/version/0.5.0"
+            }
+        }
+    }
+    
   ]
 }
