@@ -34,11 +34,11 @@ All my most used tings now at your fingertips. Oh, and it looks pretty too.
 ![menupreview2](https://github.com/user-attachments/assets/f98af648-02c9-4949-b7fc-969050618ed6)
 
 
-### WynnVentory + Wynntils
+### Overhauled Inventory
 
-Everyone already knows about the great and numerous features Wynntils adds, but one thing that has always been missing is the ability to see trade market prices in tooltips. WynnVentory adds just that, and while it is still early in development it already supports most items, and ingredients are coming soon!
+The fantastic WynnVentory mod adds trade market price tooltips, and my mod Wynn Weapon Viewer adds an enlarged preview of your weapon model (which now looks amazing thanks to Mythos). There are also buttons to toggle the weapon viewer and quickly share your build with a link, using the wonderful WynnBuild mod. We also got some neat animations thanks to Immersive UI.
 
-![8f7a670ab8d390b9d6262c010d2eb37ea2254ad9](https://github.com/user-attachments/assets/d6c1999e-5c14-4226-a686-bfc6aa8dde68)
+![overhauledinv](https://github.com/user-attachments/assets/5d51e587-7f7f-4255-b923-cb8ecc9d9534)
 
 
 ### Some stuff you may want to know
@@ -47,6 +47,7 @@ Everyone already knows about the great and numerous features Wynntils adds, but 
 - Visually based around [WynnEdits Dark Theme](https://modrinth.com/resourcepack/wynnedits-dark-theme)
 - Custom WynnToolTips resourcepack for Dark Theme
 - Wynntils config included but knowing y'all sweats you probably gunna import your own
+- Custom version of the [Nimble mod](https://modrinth.com/mod/nimble-rewynnded) created by me specifically for Wynncraft.
 
 This modpack is far from finished and I will be continuously updating it as more mods port to 1.21, check out a list of mods I'm waiting on [here.](https://modrinth.com/collection/gs97WiAb)
 
@@ -96,20 +97,31 @@ If you are using my Wynntils config and not importing your own, I recommend typi
 ```
 
 2. Keybinds and Video Settings:
-I recomend you change what buttons cast each spell in the Wynncraft Spell Caster section in the Keybinds menu.
+I recommend you change what buttons cast each spell in the Wynncraft Spell Caster section in the Keybinds menu.
 I've set the render distance at 12 chunks with DH at 80 chunks, the shader pack is tuned for this specifically so you might need to mess with shader pack settings if you edit the video settings.
 The modpack is best played in fullscreen, but it can be played in windowed mode as long as you make the window large enough to accommodate the custom menus.
 
-**Support**
-
-If you need further support contact me on the Wynncraft discord @Jamino or submit an issue to the [GitHub issue page](https://github.com/bob10234/World-of-Wynncraft/issues)
 
 </details>
 
 
 ## Modlist and Credits
-You can view the modlist with links to all the mods for any version uploaded on the [Modrinth project page](https://modrinth.com/modpack/world-of-wynncraft/versions)
-The [Alagard Font](https://www.dafont.com/alagard.font) by Hewett Tsoi was used with permission from the author.
-Baby Ice Snake's and Meteors by onepointseven
-Acrobat Audio QOL by Elysium
+You can view the modlist with links to all the mods for any version uploaded on the [Modrinth project page](https://modrinth.com/modpack/world-of-wynncraft/versions) The following resourcepacks were also used with permission from the authors.
+- The [Alagard Font](https://www.dafont.com/alagard.font) by Hewett Tsoi was used with permission from the author.
+- Baby Ice Snake's and Meteors by onepointseve
+- Acrobat Audio QOL by Elysium
+- Domix Wynncraft Overhaul
+- Mythos by ProbsWinter
+
+
+## Support and My Mods
+Please report any bugs or feature suggestions on the Github Issues page, I'll be updating this frequently with community feedback and ideas! You can also [join my discord](https://discord.gg/jqFF64rXZZ) if you need direct support, or want to stay updated with all of my mods.
+### Check out all my projects!
+>   [World of Wynncraft Modpack](https://modrinth.com/modpack/world-of-wynncraft)
+
+>   [WynnVista](https://modrinth.com/mod/wynnvista)
+
+>   [Wynn Weapon Bigger](https://modrinth.com/mod/wynnweaponbigger)
+
+>   [Nimble ReWynnded](https://modrinth.com/mod/nimble-rewynnded)
 
