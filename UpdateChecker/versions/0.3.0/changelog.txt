@@ -1,0 +1,19 @@
+**Notice**
+- Only one version includes the Distant Horizons LODs, download the LODs separately from the first release on [Github](https://github.com/bob10234/World-of-Wynncraft/releases) (v0.2) if you downloaded the modpack from Modrinth.
+- Doesn't include [Voices of Wynn](https://www.curseforge.com/minecraft/mc-mods/voices-of-wynn/files/all) 
+
+**Changelog**
+- Removed Legendary Tooltips and its dependencies
+- Removed DSTC and Shoulder Surfing Reloaded
+- Added Wynncraft Tooltips RP Dark Theme
+- Added Wynncraft Armor Textures RP
+- Added [WynnVista](https://github.com/bob10234/WynnVista)
+- Updated Distant Horizons
+- Updated Sodium
+- Updated Iris
+- Updated ETF and EMF
+- Updated Wynntils
+- Updated WynnVentory
+
+**Known Bugs**
+- Resource Loading occasionally fails. Just re-enable every resourcepack and make sure Wzrd WoW Edits is above WynnEdits Dark Theme
