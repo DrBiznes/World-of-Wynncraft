@@ -1,0 +1,15 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "DrBiznes",
+      "uniqueId": "a7108076-b5e4-4668-9e8f-38ce170b7c3d"
+    },
+    "time": 1727080224292,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/rpfWvPo5Tm"
+    }
+  }
+]
