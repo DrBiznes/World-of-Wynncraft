@@ -8,6 +8,7 @@
 - Added Class Keybind Profiles
 - Added Modpack Update Checker
 - Added Resourcify
+- Added Too Many Shortcuts
 - Downgraded DH, Iris, and Sodium until they come out of beta
 - Replaced VideoTape with GPUTape
 - Added Wynncraft: Fables & Legends RP
@@ -17,6 +18,7 @@
 - Updated Wynntils
 - Updated Wynncraft Spell Caster
 - Updated Wynn Weapon Bigger
+- Disabled WynnVentory (Thank you Wynncraft mod team your wisdom is infinite and indisputable)
 
 **Known Bugs**
 - Resource loading occasionally fails. Restart the game and re-enable every resourcepack except for Wynncraft Overhaul 0.6.0
