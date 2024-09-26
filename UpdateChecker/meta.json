@@ -81,15 +81,6 @@
                 "generic": "https://discord.gg/jqFF64rXZZ"
             }
         }
-    },
-     {
-        "id": "DH-LODs",
-        "releasedAt": 1724703800000,
-        "promotions": {
-            "downloads": {
-                "generic": "https://github.com/DrBiznes/World-of-Wynncraft/releases/tag/v0.2"
-            }
-        }
     }
   ]
 }
