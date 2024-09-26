@@ -1,0 +1,18 @@
+**Notice**
+- CITResewn OUT NOW! This update adds support for custom Wynncraft resourcepacks.
+- Download the LODs separately from the [first release on Github](https://github.com/bob10234/World-of-Wynncraft/releases/tag/v0.2) (v0.2)
+- Doesn't include [Voices of Wynn](https://www.curseforge.com/minecraft/mc-mods/voices-of-wynn/files/all) 
+
+**Changelog**
+- Updated menu screens
+- Added custom inventory screen
+- Added Immersive UI
+- Added Wynn Weapon Bigger
+- Added Nimble ReWynnded
+- Added CITResewn
+- Added Animatica
+- Added Mythos by ProbsWinter
+- Added Domix Ultimate Wynncraft Overhaul
+
+**Known Bugs**
+- Resource loading occasionally fails. Restart the game and re-enable every resourcepack except for Wynncraft Overhaul 0.5.2
