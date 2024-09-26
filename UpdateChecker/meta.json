@@ -17,7 +17,27 @@
         "releasedAt": 1726106400000,
         "promotions": {
             "downloads": {
-                "modrinth": "https://modrinth.com/modpack/world-of-wynncraft/version/0.5.0"
+                "modrinth": "https://modrinth.com/modpack/world-of-wynncraft/version/0.5.0",
+                "generic": "https://discord.gg/jqFF64rXZZ"
+            }
+        }
+    },
+     {
+        "id": "0.5.1",
+        "releasedAt": 209384093820,
+        "promotions": {
+            "downloads": {
+                "modrinth": "https://modrinth.com/modpack/world-of-wynncraft/version/0.5.1",
+                "generic": "https://discord.gg/jqFF64rXZZ"
+            }
+        }
+    },
+     {
+        "id": "DH-LODs",
+        "releasedAt": 209384093820,
+        "promotions": {
+            "downloads": {
+                "generic": "https://github.com/DrBiznes/World-of-Wynncraft/releases/tag/v0.2"
             }
         }
     }
