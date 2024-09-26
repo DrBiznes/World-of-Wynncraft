@@ -1,0 +1,10 @@
+The initial release of WoW modpack.
+
+**Notice**
+- Download Distant Horizons LODs from [Github](https://github.com/bob10234/World-of-Wynncraft/releases)
+- Doesn't include [Voices of Wynn](https://www.curseforge.com/minecraft/mc-mods/voices-of-wynn/files/5508422) 
+- Shoulder Surfing Reloaded and [DSTC](https://modrinth.com/mod/dont-surf-through-cutscenes!) installed but disabled by default, enable it in the Modrinth launcher or by renaming the .jar files
+
+**Known Bugs**
+- Wynntils Un-Id predictions don't show with Legendary Tooltips installed
+- Resource Loading occasionally fails. Just re-enable every resourcepack and make sure WynnEdits is above World of Wynn Resourcepack
