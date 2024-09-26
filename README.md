@@ -113,6 +113,7 @@ You can view the modlist with links to all the mods for any version uploaded on 
 - Domix Wynncraft Overhaul
 - Mythos by ProbsWinter
 - Wynncraft: Fables & Legends by Rythew
+- Wynn ToolTips by FocalSalt
 
 
 ## Support and My Mods
