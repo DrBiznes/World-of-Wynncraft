@@ -1,0 +1,22 @@
+**Notice**
+- LOTS of bug fixes and resource pack updates!
+- Added my new mod Class Keybind Profiles, be sure to setup your own profiles!
+- Download the LODs separately from the [first release on Github](https://github.com/bob10234/World-of-Wynncraft/releases/tag/v0.2) (v0.2)
+- Doesn't include [Voices of Wynn](https://www.curseforge.com/minecraft/mc-mods/voices-of-wynn/files/all) 
+
+**Changelog**
+- Added Class Keybind Profiles
+- Added Modpack Update Checker
+- Added Resourcify
+- Downgraded DH, Iris, and Sodium until they come out of beta
+- Replaced VideoTape with GPUTape
+- Added Wynncraft: Fables & Legends RP
+- Readded Indium until new Sodium comes out of beta
+- Updated Domix Wynncraft Overhaul
+- Updated WynnBuild
+- Updated Wynntils
+- Updated Wynncraft Spell Caster
+- Updated Wynn Weapon Bigger
+
+**Known Bugs**
+- Resource loading occasionally fails. Restart the game and re-enable every resourcepack except for Wynncraft Overhaul 0.6.0
