@@ -1,0 +1,45 @@
+{
+  "profiles": {
+    "Warrior": {
+      "key.wynncraft-spell-caster.spell.third": "key.mouse.4",
+      "key.wynncraft-spell-caster.config": "key.keyboard.unknown",
+      "key.wynncraft-spell-caster.spell.melee": "key.keyboard.unknown",
+      "key.wynncraft-spell-caster.spell.fourth": "key.keyboard.f",
+      "key.wynncraft-spell-caster.spell.first": "key.keyboard.r",
+      "key.wynncraft-spell-caster.spell.second": "key.mouse.5"
+    },
+    "Assassin": {
+      "key.wynncraft-spell-caster.spell.third": "key.keyboard.r",
+      "key.wynncraft-spell-caster.config": "key.keyboard.unknown",
+      "key.wynncraft-spell-caster.spell.melee": "key.keyboard.unknown",
+      "key.wynncraft-spell-caster.spell.fourth": "key.keyboard.f",
+      "key.wynncraft-spell-caster.spell.first": "key.mouse.4",
+      "key.wynncraft-spell-caster.spell.second": "key.mouse.5"
+    },
+    "Mage": {
+      "key.wynncraft-spell-caster.spell.third": "key.mouse.4",
+      "key.wynncraft-spell-caster.config": "key.keyboard.unknown",
+      "key.wynncraft-spell-caster.spell.melee": "key.keyboard.unknown",
+      "key.wynncraft-spell-caster.spell.fourth": "key.keyboard.f",
+      "key.wynncraft-spell-caster.spell.first": "key.mouse.5",
+      "key.wynncraft-spell-caster.spell.second": "key.keyboard.r"
+    },
+    "Shaman": {
+      "key.wynncraft-spell-caster.spell.third": "key.mouse.4",
+      "key.wynncraft-spell-caster.config": "key.keyboard.unknown",
+      "key.wynncraft-spell-caster.spell.melee": "key.keyboard.unknown",
+      "key.wynncraft-spell-caster.spell.fourth": "key.keyboard.f",
+      "key.wynncraft-spell-caster.spell.first": "key.mouse.5",
+      "key.wynncraft-spell-caster.spell.second": "key.keyboard.r"
+    },
+    "Archer": {
+      "key.wynncraft-spell-caster.spell.third": "key.mouse.4",
+      "key.wynncraft-spell-caster.config": "key.keyboard.unknown",
+      "key.wynncraft-spell-caster.spell.melee": "key.keyboard.unknown",
+      "key.wynncraft-spell-caster.spell.fourth": "key.keyboard.f",
+      "key.wynncraft-spell-caster.spell.first": "key.mouse.5",
+      "key.wynncraft-spell-caster.spell.second": "key.keyboard.r"
+    }
+  },
+  "disableToastNotifications": false
+}

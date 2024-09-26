@@ -1,0 +1,13 @@
+{
+  "enabled": true,
+  "scale": 0.4,
+  "horizontalAlignment": "RIGHT",
+  "xOffset": 0,
+  "yOffset": 0,
+  "showToggleMessage": true,
+  "enableWeapons": true,
+  "enableArmor": false,
+  "enableAccessories": false,
+  "enableUnidentified": false,
+  "enableCorkianAmplifiers": true
+}

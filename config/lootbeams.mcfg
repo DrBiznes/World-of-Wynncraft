@@ -1,0 +1,27 @@
+//If items with a white (common) item name should get a beam
+showWhiteItems=false
+
+//How many particles to create per tick
+particleCount=1
+
+//How tall the loot beam is (in blocks)
+beamHeight=0.8
+
+//How much to offset the beam vertically (in blocks)
+beamOffset=0.2
+
+//How old the item needs to be before it gets a beam (in ticks)
+minimumAge=12
+
+//How close items need to be to get a beam
+beamDistance=64.0
+
+//Adds extra particles for enchanted items
+enchantedParticles=true
+
+//Uses the color of the base item instead of the tooltip
+useBaseColor=false
+
+//If the mod should print caught errors instead of swallowing them
+printErrors=false
+
