@@ -36,7 +36,7 @@ All my most used tings now at your fingertips. Oh, and it looks pretty too.
 
 ### Overhauled Inventory
 
-The fantastic WynnVentory mod adds trade market price tooltips, and my mod Wynn Weapon Viewer adds an enlarged preview of your weapon model (which now looks amazing thanks to Mythos). There are also buttons to toggle the weapon viewer and quickly share your build with a link, using the wonderful WynnBuild mod. We also got some neat animations thanks to Immersive UI.
+Due to some asinine decision-making by the Wynncraft mod team, WynnVentory is no longer available, but my mod Wynn Weapon Viewer adds an enlarged preview of your weapon model (which now looks amazing thanks to Mythos). There are also buttons to toggle the weapon viewer and quickly share your build with a link, using the wonderful WynnBuild mod. We also got some neat animations thanks to Immersive UI.
 
 ![overhauledinv](https://github.com/user-attachments/assets/5d51e587-7f7f-4255-b923-cb8ecc9d9534)
 
@@ -97,7 +97,7 @@ If you are using my Wynntils config and not importing your own, I recommend typi
 ```
 
 2. Keybinds and Video Settings:
-I recommend you change what buttons cast each spell in the Wynncraft Spell Caster section in the Keybinds menu.
+I recommend you change what buttons cast each spell in the Wynncraft Spell Caster section in the Keybinds menu. You can also setup your own keybind profiles for each class in the Class Keybind Profiles Mod Menu settings page.
 I've set the render distance at 12 chunks with DH at 80 chunks, the shader pack is tuned for this specifically so you might need to mess with shader pack settings if you edit the video settings.
 The modpack is best played in fullscreen, but it can be played in windowed mode as long as you make the window large enough to accommodate the custom menus.
 
@@ -107,11 +107,12 @@ The modpack is best played in fullscreen, but it can be played in windowed mode 
 
 ## Modlist and Credits
 You can view the modlist with links to all the mods for any version uploaded on the [Modrinth project page](https://modrinth.com/modpack/world-of-wynncraft/versions) The following resourcepacks were also used with permission from the authors.
-- The [Alagard Font](https://www.dafont.com/alagard.font) by Hewett Tsoi was used with permission from the author.
-- Baby Ice Snake's and Meteors by onepointseve
+- The [Alagard Font](https://www.dafont.com/alagard.font) by Hewett Tsoi
+- Baby Ice Snake's and Meteors by onepointseven
 - Acrobat Audio QOL by Elysium
 - Domix Wynncraft Overhaul
 - Mythos by ProbsWinter
+- Wynncraft: Fables & Legends by Rythew
 
 
 ## Support and My Mods
@@ -124,4 +125,6 @@ Please report any bugs or feature suggestions on the Github Issues page, I'll be
 >   [Wynn Weapon Bigger](https://modrinth.com/mod/wynnweaponbigger)
 
 >   [Nimble ReWynnded](https://modrinth.com/mod/nimble-rewynnded)
+
+>   [Class Keybind Profiles](https://modrinth.com/mod/class-keybind-profiles)
 
