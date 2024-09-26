@@ -1,0 +1,15 @@
+The initial public release of WoW modpack.
+
+**Changes**
+- Added more tooltips to menu buttons
+- Updated WynnEdits dark theme
+- Fixed menu clipping
+
+**Notice**
+- Only one version includes the Distant Horizons LODs, download the LODs separately below if you came from Modrinth.
+- Doesn't include [Voices of Wynn](https://www.curseforge.com/minecraft/mc-mods/voices-of-wynn/files/5508422) 
+- Shoulder Surfing Reloaded and [DSTC](https://modrinth.com/mod/dont-surf-through-cutscenes!) installed but disabled by default, enable it in the Modrinth launcher or by renaming the .jar file
+
+**Known Bugs**
+- Wynntils Un-Id predictions don't show with Legendary Tooltips installed
+- Resource Loading occasionally fails. Just re-enable every resourcepack and make sure WynnEdits is above World of Wynn Resourcepack
