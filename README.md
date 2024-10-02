@@ -65,7 +65,7 @@ There are two ways to download the modpack, although it may seem ironic download
 1. Download the [Modrinth App](https://modrinth.com/app) or your preferred modpack launcher and sign in with your Microsoft/Minecraft account.
 2. Press the Browse button and search for "World of Wynncraft"
 3. Install the modpack.
-4. Navigate to the modpack's [GitHub Releases](https://github.com/bob10234/World-of-Wynncraft/releases) page.
+4. Navigate to the modpack's [GitHub Releases](https://github.com/DrBiznes/World-of-Wynncraft/releases/tag/v0.2) page.
 5. Download the file "Distant_Horizons_server_data.zip". This allows you to stop crying and start smiling.
 6. Navigate to the Modrinth App's Library panel, and select World of Wynncraft then click the Folder button next to Play to open the modpacks folder.
 7. Drag the Zip file you downloaded into the modpack folder.
