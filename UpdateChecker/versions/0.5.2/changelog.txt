@@ -1,0 +1,20 @@
+**Notice**
+- Now Minecraft Version 1.21.1
+- Added WynnAspects make sure to setup your own account!
+- Download the LODs separately from the [first release on Github](https://github.com/bob10234/World-of-Wynncraft/releases/tag/v0.2) (v0.2)
+- Doesn't include [Voices of Wynn](https://www.curseforge.com/minecraft/mc-mods/voices-of-wynn/files/all) 
+
+**Changelog**
+- Bumped MC version to 1.21.1
+- Updated DH, Iris, and Sodium to Beta Versions
+- Added Better Clouds
+- Added WynnAspects
+- Added Salt Road
+- Removed WynnVentory
+- Updated Wynntils
+- Updated FancyMenu
+
+
+**Known Bugs**
+- After leaving the main map area (like going into a dungeon) water stops generating in distant horizons LODs. You can reload shaders or play without shaders to fix this bug.
+- Resource loading occasionally fails. Restart the game and re-enable every resourcepack except for Wynncraft Overhaul 0.6.0
