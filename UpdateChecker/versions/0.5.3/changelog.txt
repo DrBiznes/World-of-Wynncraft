@@ -1,0 +1,18 @@
+**Notice**
+- Compatible with Wynncraft 2.1.1 and Festival of the Blizzard
+- NEW WynnLODGrabber mod I created lets you download the LODs in game for Distant Horizons
+- Doesn't include [Voices of Wynn](https://www.curseforge.com/minecraft/mc-mods/voices-of-wynn/files/all) 
+
+**Changelog**
+- Updated Sodium and Iris to full release, unfortunately the DH bug hasn't been fixed yet. [Please comment on the bug report to hopefully get it fixed sooner](https://github.com/IrisShaders/Iris/issues/2469)
+- Added WynnLODGrabber
+- Added WynnLimbo
+- Added Resource Pack Overrides
+- Updated Wynntils
+- Updated Domix Wynncraft Overhaul
+- Removed WynnAspects by default since it's complicated to setup and explain
+- Fancy Menu now designed to work with vanilla Wynncraft resourcepack since WynnEdits Dark Theme hasn't updated
+
+
+**Known Bugs**
+- After leaving the main map area (like going into a dungeon) water stops generating in distant horizons LODs. You can reload shaders or play without shaders to fix this bug.
