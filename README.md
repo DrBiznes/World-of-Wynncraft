@@ -4,7 +4,7 @@
 [2]:  https://modrinth.com/modpack/world-of-wynncraft "Redirect to Modrinth Page"
 
 
-**Please read the installation section at the bottom!**
+**Please Read the Installation Section Below!!!**
 
 This modpack is very close to how I dreamed Wynncraft would one day look back in 2013. Distant Horizons allows for unlimited render distance, Rethinking Voxels provides ray-traced lighting, the wonderful Wynntils and WynnVentory add all the features vanilla Wynncraft lacks.
 
@@ -53,38 +53,16 @@ This modpack is far from finished and I will be continuously updating it as more
 
 ## Installation
 
-**"WAH WAH MY RENDER DISTANCE IS SO SMALL"** Does this sound like the voice in your head? Well, due to filesize limitations on Modrinth, the Distant Horizons LODs files are hosted on the [GitHub releases page.](https://github.com/bob10234/World-of-Wynncraft/releases/tag/v0.2) For instructions to install it, please review the installation guide.
+**"WAH WAH MY RENDER DISTANCE IS SO SMALL"** Does this sound like the voice in your head? Well, due to filesize limitations on Modrinth, the Distant Horizons LODs files aren't included in the download, you must accept the download after loading into the game. If you clicked reject already you can reset the WynnLODGrabber mod by deleting the config folder.
 
-<details>
-<summary>Installation Guide</summary>
-
-# Method 1: Modrinth/Prism/ATLauncher download
-There are two ways to download the modpack, although it may seem ironic downloading Manually (Method 2) is easier in my opinion
-
-## Modrinth hosted download
-1. Download the [Modrinth App](https://modrinth.com/app) or your preferred modpack launcher and sign in with your Microsoft/Minecraft account.
-2. Press the Browse button and search for "World of Wynncraft"
-3. Install the modpack.
-4. Navigate to the modpack's [GitHub Releases](https://github.com/DrBiznes/World-of-Wynncraft/releases/tag/v0.2) page.
-5. Download the file "Distant_Horizons_server_data.zip". This allows you to stop crying and start smiling.
-6. Navigate to the Modrinth App's Library panel, and select World of Wynncraft then click the Folder button next to Play to open the modpacks folder.
-7. Drag the Zip file you downloaded into the modpack folder.
-8. Right-click on the Zip file and hit Extract All. After it's done make sure there is a folder named "Distant_Horizons_server_data" in your modpack folder.
-9. Delete the Zip file.
-
-# Method 2: Manual Installation
-
-## Github hosted download
-1. Navigate to the modpack's [GitHub Releases](https://github.com/bob10234/World-of-Wynncraft/releases) page.
-2. Download the file titled World.of.Wynncraft.0.X.mrpack It should be around 1.3 Gigabytes.
-1. Download the [Modrinth App](https://modrinth.com/app) or your preferred modpack launcher and sign in with your Microsoft/Minecraft account.
-2. Add an instance, in the Modrinth app use the plus button on the bottom left. For other launchers, I got no clue sorry!!
-3. Select From File and drag the .mrpack file you just downloaded onto the window.
-4. This version comes with the Distant Horizons LODs pre-installed.
 
 # Addons: Voices of Wynn (Optional)
 1. You wanna hear the Seaskipper yappin at you, I understand.
 2. If you are interested, [download the latest version](https://www.curseforge.com/minecraft/mc-mods/voices-of-wynn/files) and place the .jar in the mods folder inside the modpack folder.
+
+# Addons: WynnAspects (Optional)
+1. This mod automatically tracks your aspects after every raid and has a very cool website dashboard.
+2. If you are interested, [download the latest version](https://modrinth.com/mod/wynnaspects) and place the .jar in the mods folder inside the modpack folder.
 
 # Configurations
 1. Wynncraft Settings:
@@ -100,9 +78,6 @@ If you are using my Wynntils config and not importing your own, I recommend typi
 I recommend you change what buttons cast each spell in the Wynncraft Spell Caster section in the Keybinds menu. You can also setup your own keybind profiles for each class in the Class Keybind Profiles Mod Menu settings page.
 I've set the render distance at 12 chunks with DH at 80 chunks, the shader pack is tuned for this specifically so you might need to mess with shader pack settings if you edit the video settings.
 The modpack is best played in fullscreen, but it can be played in windowed mode as long as you make the window large enough to accommodate the custom menus.
-
-
-</details>
 
 
 ## Modlist and Credits
@@ -128,4 +103,7 @@ Please report any bugs or feature suggestions on the Github Issues page, I'll be
 >   [Nimble ReWynnded](https://modrinth.com/mod/nimble-rewynnded)
 
 >   [Class Keybind Profiles](https://modrinth.com/mod/class-keybind-profiles)
+
+>   [WynnBubbles](https://modrinth.com/mod/wynnbubbles)
+
 
