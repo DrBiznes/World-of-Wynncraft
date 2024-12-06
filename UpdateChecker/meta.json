@@ -91,6 +91,16 @@
                 "generic": "https://discord.gg/jqFF64rXZZ"
             }
         }
+    },
+    {
+        "id": "0.5.3",
+        "releasedAt": 1733468160000,
+        "promotions": {
+            "downloads": {
+                "modrinth": "https://modrinth.com/modpack/world-of-wynncraft/version/0.5.3",
+                "generic": "https://discord.gg/jqFF64rXZZ"
+            }
+        }
     }
   ]
 }
