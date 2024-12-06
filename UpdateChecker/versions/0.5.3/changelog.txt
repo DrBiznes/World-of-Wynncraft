@@ -8,6 +8,8 @@
 - Added WynnLODGrabber
 - Added WynnLimbo
 - Added Resource Pack Overrides
+- Added Skin Shuffle
+- Added Flow
 - Updated Wynntils
 - Updated Domix Wynncraft Overhaul
 - Removed WynnAspects by default since it's complicated to setup and explain
