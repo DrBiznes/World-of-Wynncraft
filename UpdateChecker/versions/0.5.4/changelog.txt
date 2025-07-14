@@ -1,0 +1,16 @@
+**Notice**
+- Updated to work with EU and NA servers + Outer Void Patch
+- Doesn't include [Voices of Wynn](https://www.curseforge.com/minecraft/mc-mods/voices-of-wynn/files/all) 
+
+**Changelog**
+- Readded WynnEdits Dark Theme
+- Updated Sodium and Iris to full release, unfortunately the DH bug hasn't been fixed yet. [Please comment on the bug report to hopefully get it fixed sooner](https://github.com/IrisShaders/Iris/issues/2469)
+- Updated particle mods
+- Update WynnLimbo
+- Updated Domix Wynncraft Overhaul
+- Readded WynnAspects since it was uploaded to curseforge too.
+- Wynntils is set to no longer auto-update in preparation for their move to 1.21.4 
+
+
+**Known Bugs**
+- After leaving the main map area (like going into a dungeon) water stops generating in distant horizons LODs. You can reload shaders or play without shaders to fix this bug. [Please comment on the bug report to hopefully get it fixed sooner](https://github.com/IrisShaders/Iris/issues/2469)
