@@ -1,0 +1,15 @@
+**Notice**
+- Apologies for not getting this update out sooner I will have another update for this pack coming out shortly with a new mod I've been working on for Wynn based on Travelers Titles
+- Updated to MC 1.21.4 for Wynncraft 2.1.2_7
+- There are a ton of improvements in this version inlcuding fixes for long standing bugs with Distant Horizons and Shaders
+
+**Changelog**
+- Updated Wynntils and switched to using the new Wynntils Content Book
+- Updated almost all Wynncraft Resourcepacks to use VCIT instead of CITR for compat with 1.21.4
+- Fixed issues with Fancy Menu in 1.21.4
+- Removed Wynncraft Spell Caster in favor of Wynntils spell macros (now supported by Class Keybind Profiles)
+- Updated all other mods to 1.21.4 versions
+
+**Known Bugs**
+- The player entity on the the menu screen doesn't currently appear
+- After leaving the main map area (like going into a dungeon) fog stops generating in distant horizons LODs
